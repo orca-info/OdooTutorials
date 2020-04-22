@@ -2,7 +2,7 @@
 ### 1、准备材料：
 + 虚拟机VMware Workstation 15.5PRO
 + ubuntu ISO源文件：[Ubuntu 18.04.4 LTS ISO](https://ubuntu.com/download/desktop)
-+ 20G以上U盘（本项目使用128G U盘）
++ 20G以上U盘（本项目使用128G U盘 建议选用支持USB3.0）
 
 ### 2、创建虚拟机并安装
 1. 打开虚拟机，--> __*创建新的虚拟机*__:  
@@ -86,7 +86,7 @@
 ![avatar](https://github.com/orca-info/OdooTutorials/blob/master/Odoo%20development/ubuntu%20virtual/step23.png)
 
 20. --> 最后一步：选中__*Something else*__   
-![avatar]()
+![avatar](https://github.com/orca-info/OdooTutorials/blob/master/Odoo%20development/ubuntu%20virtual/step24-1.png)
 
 <font color=blue>**注意**</font>：这时候把U盘插入，会显示弹窗信息如下，选择：链接到虚拟机 Ubuntu2
 ![avatar](https://github.com/orca-info/OdooTutorials/blob/master/Odoo%20development/ubuntu%20virtual/step24.png)
